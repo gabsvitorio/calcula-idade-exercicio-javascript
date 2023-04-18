@@ -11,3 +11,6 @@ chamada “idade”) e imprima a sua categoria seguindo as regras:</p>
 | Juvenil A | 11 - 13 anos |
 | Juvenil B | 14 - 17 anos |
 | Adulta | 18 anos ou mais |
+
+
+[Apostila da qual este exercício faz parte](https://educacaoprofissional.seduc.ce.gov.br/images/material_didatico/informatica/informatica_programacao_web_2019.pdf "Programação Web 2019")
